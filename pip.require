@@ -1,0 +1,5 @@
+gevent
+gevent_zeromq
+gevent_subprocess
+gevent_websocket
+pyzmq==2.2.0
